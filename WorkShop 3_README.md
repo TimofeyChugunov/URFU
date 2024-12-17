@@ -36,6 +36,7 @@ https://docs.google.com/spreadsheets/d/12V0QD20hEG96FhofnroFfmMycMuCZ-Wvk7E-xRa7
 - Разброс урона оружия
 - Вариативность времени отклика игрока (реакция на события)
 
+![Визуал](https://github.com/user-attachments/assets/efefc9ac-c3cf-4bc5-8b7e-af62f5dbf3dc)
 
 
 
